@@ -6,7 +6,7 @@ XBITS
 
 XBITS.ASSETS Terms of Use
 
-[Last revised: 31 May 2020]
+[Last revised: 1 JUNE 2020]
 
 
 This User agreement is between you (referenced herein as “you” or with “your”) and XBITS. XBITS is part of a personal BitShares-based decentralized account owned and operated by a private investor. XBITS is a part time merchant teller service that allows for direct exchange of digital goods traded in the BitShares ecosystem. By using any of the services made available by XBITS through the bitshares platform (together, the “Services”). By registering for a Bitshares Dex account (“Account”) or using any of the Services, you agree that you have read, understood and accept all of the terms and conditions contained in this Terms of Use agreement (the or these “Terms”).
@@ -25,10 +25,10 @@ You must be at least 18 years old. By accessing or using XBITS services, you fur
 You represent and warrant that you will not be using XBITS services for any illegal activity, money laundering, fraud, blackmail, extortion, ransoming data, the financing of terrorism, other violent activities or any prohibited market practices.
 
 3. Prohibition of use
-By accessing and using the Services, you represent and warrant that you are not on any trade or economic sanctions lists, such as the EFCC, ICPC, FinCEN, FIRS, UN Security Council Sanctions list, designated as a “Specially Designated National” by OFAC (Office of Foreign Assets Control of the U.S. Treasury Department) or placed on the U.S. Commerce Department’s “Denied Persons List”. XBITS maintains the right to choose who to deal with and may restrict or deny its Services in certain countries at its discretion.
+By accessing and using the Services, you represent and warrant that you are not on any trade or economic sanctions lists, such as the EFCC, ICPC, FinCEN, FIRS, UN Security Council Sanctions list, designated as a “Specially Designated National” by OFAC (Office of Foreign Assets Control of the U.S. Treasury Department) or placed on the U.S. Commerce Department’s “Denied Persons List”. XBITS maintains the right to choose who to deal with and may restrict or deny its Services to certain users at its discretion.
 
 4. Description of services
-XBITS provides teller services for online digital asset (crypto to crypto/fiat) for products commonly known as cryptographic tokens, digital tokens or cryptographic currency (collectively, “Digital Assets”). XBITS provides fiat trading capabilities for the Naira only. XBITS functions as a part time blockchain teller only. XBITS is also not a market maker. Users cannot register and open an account with XBITS but they can buy digital assets from XBITS in Naira only via HTLC.
+XBITS provides teller services for online digital asset (crypto to crypto/fiat) for products commonly known as cryptographic tokens, digital tokens or cryptographic currency (collectively, “Digital Assets”). XBITS provides fiat trading capabilities for the Naira only. XBITS functions as a blockchain HTLC teller only. XBITS is also not a market maker. Users cannot register and open an account with XBITS but they can buy digital assets from XBITS in Naira only via HTLC.
 
 XBITS strives to maintain the accuracy of information posted on the Services however it cannot and does not guarantee the accuracy, suitability, reliability, completeness, performance or fitness for any purpose of the content made available through the Services, and will not be liable for any loss or damage that may arise directly or indirectly from your use of such content. Information on the Services can be subjected to change without notice and is provided for the primary purpose of facilitating users to arrive at independent decisions. XBITS does not provide investment or advisory advice and will have no liability for the use or interpretation of information as stated on the Services or other communication mediums. All users of the Services must understand that there are risks involved in trading in Digital Assets. XBITS encourages all users to exercise prudence and trade responsibly within their own means.
 
