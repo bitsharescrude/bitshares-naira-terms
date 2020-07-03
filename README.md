@@ -1,4 +1,4 @@
-# bitshares-naira-terms
+# bitsharescrude Terms
 Terms and conditions for service
 
 CRUDE
@@ -6,7 +6,7 @@ CRUDE
 
 CRUDE.ASSETS Terms of Use
 
-[Last revised: 2 JUNE 2020]
+[Last revised: 3 JULY 2020]
 
 
 This User agreement is between you (referenced herein as “you” or with “your”) and CRUDE (reference to as "owner" or "CRUDE.ASSET"). CRUDE is part of a private BitShares-based decentralized asset owned and operated by a private investor. CRUDE is a part time merchant teller service that allows for direct exchange of digital goods traded in the BitShares ecosystem. By using any of the services made available by CRUDE through the bitshares platform (together, the “Services”). By registering for a Bitshares Dex account (“Account”) or using any of the Services, you agree that you have read, understood and accept all of the terms and conditions contained in this Terms of Use agreement (the or these “Terms”).
