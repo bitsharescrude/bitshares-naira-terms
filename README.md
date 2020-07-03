@@ -1,4 +1,4 @@
-# bitsharescrude Terms
+# Bitsharescrude Terms
 Terms and conditions for service
 
 CRUDE
