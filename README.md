@@ -6,7 +6,7 @@ CRUDE
 
 CRUDE.ASSETS Terms of Use
 
-[Last revised: 30th NOVEMBER 2020]
+[Last revised: 26th DECEMBER 2021]
 
 
 This User agreement is between you (referenced herein as “you” or with “your”) and CRUDE (reference to as "owner" or "CRUDE.ASSET"). CRUDE is part of a private BitShares-based decentralized asset owned and operated by a private Organisation. CRUDE is a part time merchant teller service that allows for direct exchange of digital goods traded in the BitShares ecosystem. By using any of the services made available by CRUDE through the bitshares platform (together, the “Services”). By registering for a Bitshares Dex account (“Account”) or using any of the Services, you agree that you have read, understood and accept all of the terms and conditions contained in this Terms of Use agreement (the or these “Terms”).
@@ -87,4 +87,4 @@ e. Third-Party Website Disclaimer.
 Any links to third-party websites from the Services does not imply endorsement by XBITS of any products, services or information presented therein, nor does XBITS guarantee the accuracy of the information contained on them. In addition, since CRUDE has no control over the terms of use or privacy practices of third-party websites, you should read and understand those policies carefully.
 
 Terms of Use
-CRUDE © 2018 - 2020
+CRUDE © 2020 - 2021
