@@ -9,7 +9,7 @@ CRUDE.ASSETS Terms of Use
 [Last revised: 26th DECEMBER 2021]
 
 
-This User agreement is between you (referenced herein as “you” or with “your”) and CRUDE (reference to as "owner" or "CRUDE.ASSET"). CRUDE is part of a private BitShares-based decentralized asset owned and operated by a private Organisation. CRUDE is a part time merchant teller service that allows for direct exchange of digital goods traded in the BitShares ecosystem. By using any of the services made available by CRUDE through the bitshares platform (together, the “Services”). By registering for a Bitshares Dex account (“Account”) or using any of the Services, you agree that you have read, understood and accept all of the terms and conditions contained in this Terms of Use agreement (the or these “Terms”).
+This User agreement is between you (referenced herein as “you” or with “your”) and CRUDE (reference to as "owner" or "CRUDE.ASSET"). CRUDE is part of a private BitShares-based decentralized asset owned and operated by a private Organisation. CRUDE is a decentralised exchange that uses the liquidity pool protocol on the BitShares ecosystem. By using any of the services made available by CRUDE through the bitshares platform (together, the “Services”). By registering for a Bitshares Dex account (“Account”) or using any of the Services, you agree that you have read, understood and accept all of the terms and conditions contained in this Terms of Use agreement (the or these “Terms”).
 
 PLEASE READ THESE TERMS CAREFULLY AS THEY GOVERN YOUR USE OF THE SERVICES. AS WITH ANY ASSET, THE VALUE OF DIGITAL CURRENCIES CAN GO UP OR DOWN AND THERE CAN BE A SUBSTANTIAL RISK THAT YOU WILL LOSE MONEY BUYING, SELLING, HOLDING, OR INVESTING IN DIGITAL CURRENCIES. BY USING THE SERVICES YOU ACKNOWLEDGE AND AGREE THAT YOU ARE AWARE OF THE RISKS ASSOCIATED WITH TRANSACTING IN DIGITAL CURRENCIES THAT YOU ASSUME ALL RISKS WITH RESPECT TO YOUR USE OF THE SERVICES AND TRADING IN DIGITAL CURRENCIES AND CRUDE IS NOT RESPONSIBLE OR LIABLE FOR ANY SUCH RISKS OR ADVERSE OUTCOMES.
 
@@ -28,7 +28,7 @@ You represent and warrant that you will not be using XBITS services for any ille
 By accessing and using the Services, you represent and warrant that you are not on any trade or economic sanctions lists, such as the EFCC, ICPC, FinCEN, FIRS, UN Security Council Sanctions list, designated as a “Specially Designated National” by OFAC (Office of Foreign Assets Control of the U.S. Treasury Department) or placed on the U.S. Commerce Department’s “Denied Persons List”. CRUDE maintains the right to choose who to deal with and may restrict or deny its Services to certain users at its discretion.
 
 4. Description of services
-CRUDE provides teller services for online digital asset (crypto to crypto/fiat) for products commonly known as cryptographic tokens, digital tokens or cryptographic currency (collectively, “Digital Assets”). CRUDE provides fiat trading capabilities for the Naira only. CRUDE functions as a blockchain teller only. Users may register and open an account with CRUDE but only for peer to peer teller transactions, they can buy digital assets from CRUDE in Naira only via the bitsharescrude.i.ng webportal.
+CRUDE provides exchange services for online digital asset (crypto to crypto/fiat) for products commonly known as cryptographic tokens, digital tokens or cryptographic currency (collectively, “Digital Assets”). CRUDE provides fiat trading capabilities for the Naira only. CRUDE functions as an escrow too, so users can contact the escrow mananger via our contact links given on the website https://crudefinance.site.
 
 CRUDE strives to maintain the accuracy of information posted on the Services however it cannot and does not guarantee the accuracy, suitability, reliability, completeness, performance or fitness for any purpose of the content made available through the Services, and will not be liable for any loss or damage that may arise directly or indirectly from your use of such content. Information on the Services can be subjected to change without notice and is provided for the primary purpose of facilitating users to arrive at independent decisions. CRUDE does not provide investment or advisory advice and will have no liability for the use or interpretation of information as stated on the Services or other communication mediums. All users of the Services must understand that there are risks involved in trading in Digital Assets. CRUDE encourages all users to exercise prudence and trade responsibly within their own means.
 
@@ -42,19 +42,9 @@ By creating an Account with bitshares, you hereby agree that:
 (i) you will strictly observe the security, authentication, dealing, charging, withdrawal mechanism or procedures of the website/service; and
 (ii) you will log out from the website by taking proper steps at the end of every visit.
 6. Orders and Service Fees
-a. Orders
-Upon placing an Order to effect a trade using the Services (an “Order”), CRUDE Account will be updated to reflect the open Order (as HTLC) and your Order will be included in Bitshares blockchain (https://wallet.bitshares.org/#/explorer/blocks) The history of all HTLC transactions can be found in the Bitshares blockchain blockexplorer https://bts.ai/htlcs . once your deposit is confirmed, the Services will execute an exchange (a “Transfer”). Upon execution of the Transfer, your Account will be updated to reflect the deposit and the Order will be closed.
-
-b. Tellers
-CRUDE is basically equivalent to a Blockchain teller whose aim is to process Bitshares transactions on the blockchain to be able to redeem your digital assets. CRUDE will only process transactions related to CRUDE.ASSETS or its affiliates. These assets are backed 100% by the real NGN(for fiat), BTC or ETH or any other digital assets that people use. CRUDE.ASSETS is thus in theory equivalent to the BTC you get on Poloniex, which could be prefixed POLO.BTC. In both cases you rely on the service provider, CCEDK for XBITS. assets and Poloniex for POLO. assets, to remain solvent in order to back the value of the assets they've issued. Read More: https://wallet.bitshares.org/#/help/introduction/bridges_gateways
-https://github.com/bitshares/bsips/blob/master/bsip-0044.md
-https://github.com/bitshares/bitshares-core/wiki/HTLC
-
-c. Cancellations
-You or CRUDE may only cancel an order initiated via the Services if the conditions for transfer has not been met.
-
-d. Fees
-You agree to pay Bitshares the fees set forth at https://wallet.bitshares.org/ which may be updated from time to time in Bitshares’s sole discretion and also gateway fees for deposit and withdrawal charges incurred as result of your transactions. Any such updated fees will apply prospectively to any trades or other transactions that take place following the effective date of such updated fees. You authorize Bitshares Blockchain to remove any amounts from your Account for any applicable fees owed by you under these Terms.
+a. All exchange orders on the bitshares site are automated.
+b. Fees
+You agree to pay Bitshares the fees set forth at https://wallet.bitshares.org/, https://dex.iobanker.com and https://app.xbts.io/#/ which may be updated from time to time in Bitshares’s sole discretion and also gateway fees for deposit and withdrawal charges incurred as result of your transactions. Any such updated fees will apply prospectively to any trades or other transactions that take place following the effective date of such updated fees. You authorize Bitshares Blockchain to remove any amounts from your Account for any applicable fees owed by you under these Terms.
 
 8. Liability
 a. Disclaimer of Warranties
@@ -84,7 +74,7 @@ d. Severability.
 If any portion of these Terms are held invalid or unenforceable, such invalidity or enforceability will not affect the other provisions of these Terms, which will remain in full force and effect, and the invalid or unenforceable portion will be given effect to the greatest extent possible.
 
 e. Third-Party Website Disclaimer.
-Any links to third-party websites from the Services does not imply endorsement by XBITS of any products, services or information presented therein, nor does XBITS guarantee the accuracy of the information contained on them. In addition, since CRUDE has no control over the terms of use or privacy practices of third-party websites, you should read and understand those policies carefully.
+Any links to third-party websites from the Services does not imply endorsement by CRUDE of any products, services or information presented therein, nor does CRUDE guarantee the accuracy of the information contained on them. In addition, since CRUDE has no control over the terms of use or privacy practices of third-party websites, you should read and understand those policies carefully.
 
 Terms of Use
 CRUDE © 2020 - 2021
